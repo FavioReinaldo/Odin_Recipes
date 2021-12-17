@@ -1,4 +1,4 @@
-#This is a project from The Odin Project
+# Recipes-Website
 
-HTML project named RECIPES from https://www.theodinproject.com
-
+This is a project from The Odin Project
+HTML website project named RECIPES from https://www.theodinproject.com

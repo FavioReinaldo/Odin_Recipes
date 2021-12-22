@@ -1,0 +1,49 @@
+
+
+h1{
+  text-align: center;
+  color: #E2AC5C;
+  background-color: #9D6140;
+  padding: 20px;
+}
+
+body{
+  background-color: #73261E;
+  color: #E2AC5C;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height:400px;
+    align-self: center;
+}
+
+#imagePaella{
+  width: auto;
+  height:200px;
+}
+
+ul{
+  list-style-type:none;
+}
+
+li{
+  padding:10px;
+}
+
+a{
+  display: block;
+  color: #E2AC5C;
+  width: 150px;
+  padding:10px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #9D6140;
+}
+
+
